@@ -10,6 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/issues?q=is%3Aopen)
 [![GitHub contributors](https://img.shields.io/github/contributors/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/graphs/contributors)
 [![license](https://img.shields.io/github/license/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/blob/master/LICENSE)
+![Discord Shield](https://discord.com/api/guilds/1003932844147613756/widget.png?style=shield)
 
 # Script functions
 GrepoTools is a script that makes playing Grepolis more fun and easier.
@@ -17,8 +18,8 @@ GrepoTools is a script that makes playing Grepolis more fun and easier.
 We once started with a grid for the strategic map and the island overview so that navigation was easier.
 Today, GrepoTools is a collection of many tools that improve the gameplay of Grepolis. So much so that many players can no longer live without it.
 
-## Tools
-### General
+# Tools
+## General
 - GrepoTools is not dependent on any other script and only uses public data from Innogames.
 - To display player inactivity, GrepoTools works with GrepoData
 - All game options can be set per tool via the menu.
@@ -30,15 +31,21 @@ Today, GrepoTools is a collection of many tools that improve the gameplay of Gre
 - Send message to an entire alliance (own alliance and enemy alliances)
 - Night and day view to enable or disable the dark mode of grepolis (strategic, island and city view)
 
-### Strategic Map
+## Strategic Map
 - Display 5×5 grid (per ocean from A1 to E5)
 - Ocean numbers are shown on the map
 - Island numbers and tags are displayed on the map
 
-### Island View
+## Island View
 - Tags are displayed next to the cities (player name, alliance, city name and points)
 - Player inactivity can be shown in the tags on the map
 - Display 5×5 grid (per ocean from A1 to E5)
 - Ocean numbers are shown on the map
 - Island numbers and tags are displayed on the map
 - Coordinates are displayed (X/Y)
+
+# Author
+Marcel Zwaak
+
+# Contact
+![Discord Banner 2](https://discord.com/api/guilds/1003932844147613756/widget.png?style=banner2)
