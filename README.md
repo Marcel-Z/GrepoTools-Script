@@ -18,9 +18,9 @@ GrepoTools is a script that makes playing Grepolis more fun and easier.
 We once started with a grid for the strategic map and the island overview so that navigation was easier.
 Today, GrepoTools is a collection of many tools that improve the gameplay of Grepolis. So much so that many players can no longer live without it.
 
-GrepoTools is authorized on (AR), (BR), (CZ), (DE), (EN), (ES), (FR), (GR), (HU), (IT), (NL), (PL), (PT), (RO), (RU), (SK), (TR), (US)
-GrepoTools is officially approved by Grepolis on (None)
-GrepoTools is currently prohibited on (None)
+* GrepoTools is authorized on (AR), (BR), (CZ), (DE), (EN), (ES), (FR), (GR), (HU), (IT), (NL), (PL), (PT), (RO), (RU), (SK), (TR), (US).
+* GrepoTools is officially approved by Grepolis on (None).
+* GrepoTools is currently prohibited on (None).
 
 # Tools
 ## General
