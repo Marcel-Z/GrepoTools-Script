@@ -10,7 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/issues?q=is%3Aopen)
 [![GitHub contributors](https://img.shields.io/github/contributors/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/graphs/contributors)
 [![license](https://img.shields.io/github/license/Marcel-Z/GrepoTools-Script.svg)](https://github.com/Marcel-Z/GrepoTools-Script/blob/master/LICENSE)
-![Discord Shield](https://discord.com/api/guilds/1003932844147613756/widget.png?style=shield)
+<a href="https://discord.gg/K4jV7hFSRu"><img src="https://discord.com/api/guilds/1003932844147613756/widget.png?style=shield" alt="Discord Shield"/></a>
 
 # Script functions
 GrepoTools is a script that makes playing Grepolis more fun and easier.
@@ -48,4 +48,4 @@ Today, GrepoTools is a collection of many tools that improve the gameplay of Gre
 Marcel Zwaak
 
 # Contact
-![Discord Banner 2](https://discord.com/api/guilds/1003932844147613756/widget.png?style=banner2)
+<a href="https://discord.gg/K4jV7hFSRu"><img src="https://discord.com/api/guilds/1003932844147613756/widget.png?style=banner2" alt="Discord Discord Banner 2"/></a>
